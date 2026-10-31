@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/jesusjimenez13/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/jesusjimenez13/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/jesusjimenez13/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/jesusjimenez13/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/jesusjimenez13/legion-del-mal?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
