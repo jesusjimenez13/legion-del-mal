@@ -4,6 +4,7 @@ on:
 
   workflow_dispatch:
     inputs:
+
       villano:
         description: '¿Qué villano envía el mensaje?'
         required: true
@@ -14,7 +15,20 @@ on:
           - Joker
           - Mystique
           - Brainiac
+          
+      mensaje:
+        description: 'Mensaje para el consejo'
+        required: true
+        default: 'La misión fue un éxito'
 
+      prioridad:
+        description: 'Nivel del prioridad '
+        required: true
+        type: choice
+        options: 
+          - 🟢 Normal
+          - 🟠 Alta
+          - 🔴 Crítica
 
 jobs:
   transmitir-mensaje:
