@@ -23,3 +23,15 @@ Es el núcleo moral y táctico de los Avengers; eliminarlo o desmoralizarlo desa
 | **Arnim Zola** | Científico nazi cuya conciencia reside en redes digitales; creador de clones y tecnología biológica | 🟠 Alto (guerra cibernética y armas biológicas) |
 
 > **Nota táctica de Taskmaster:** La mayoría de sus enemigos intentan destruirlo quebrando sus ideales o atacando a los civiles que protege. Enfrentarlo en un simple duelo físico es una pérdida de recursos; su perseverancia siempre supera al desgaste convencional.
+
+## Círculo cercano y aliados clave
+
+| Aliado | Relación / Rol táctico | Factor estratégico |
+| --- | --- | --- |
+| **Bucky Barnes (Winter Soldier)** | Hermano de armas histórico; exasesino cibernético rehabilitado | ⚠️ Punto ciego emocional absoluto de Rogers; explotable para desviar su foco |
+| **Sam Wilson (Falcon)** | Socio táctico principal y apoyo aéreo de alta maniobrabilidad | Prioritario de neutralizar primero para arrebatarle el control del espacio tridimensional |
+| **Peggy / Sharon Carter** | Vínculo histórico (S.H.I.E.L.D.) y apoyo logístico/inteligencia en el terreno | Fuentes frecuentes de filtraciones o rescates de alto impacto |
+| **Tony Stark (Iron Man)** | Aliado central en los Avengers, marcado por fricción ideológica constante | Fácil de polarizar; una fractura ideológica entre ambos paraliza al equipo completo |
+| **Natasha Romanoff (Black Widow)** | Especialista en operaciones encubiertas e infiltración | La contramedida que cubre los escrúpulos morales que Rogers se niega a cruzar |
+
+> **Observación de Taskmaster:** Separar al Capitán de su círculo es prioritario. No opera como un lobo solitario; su efectividad se multiplica exponencialmente cuando coordina a combatientes con habilidades complementarias.
