@@ -9,9 +9,9 @@ jobs:
     steps:
       - name: El agente llega a la Fortaleza
         run: |
-            echo: "Agennte ${{ github.actor }} llega a la Fortaleza Prohibida"
-            echo: ""
-            echo: "Buscar los archivos de la legión"
+            echo "Agennte ${{ github.actor }} llega a la Fortaleza Prohibida"
+            echo ""
+            echo "Buscar los archivos de la legión"
             ls -la
             echo ""
             echo "❌ pero que pasó? no hay nada"
