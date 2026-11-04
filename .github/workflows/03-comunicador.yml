@@ -15,6 +15,18 @@ on:
           - Mystique
           - Brainiac
 
+      cow_character:
+        description: 'Mensaje para el consejo'
+        required: true
+        type: choice
+        options:
+          - mule
+          - ackbar
+          - banana
+          - charizardvice
+          - homer
+       
+
       mensaje:
         description: 'Mensaje para el consejo'
         required: true
@@ -48,7 +60,7 @@ jobs:
           echo ""
           echo "Fecha: $(date -u +"%d/%m/%Y - %H:%M UTC")"
           echo "---- Mensaje ----"
-          cowsay -f eyes "${{ inputs.mensaje }}"
+          cowsay -f "${{ inputs.cow_character }}"
           echo ""
           echo "--- ${{ inputs.villano }}"
           echo "..."
