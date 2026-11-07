@@ -59,3 +59,7 @@ El combate directo uno a uno en espacio abierto es un error táctico debido a su
 
 > _"Tiene un corazón débil por los inocentes. Denme dos autobuses escolares y lo tengo de rodillas."_  
 > — **Cheetah**
+
+## Estrategia recomendada
+
+Operar desde las alturas urbanas mediante tácticas de golpear y huir, usando redes electrificadas y pulsos electromagnéticos (EMP) caseros para inutilizar a los autómatas sin dañar a civiles. Aprovechar su sentido arácnido para interceptar emboscadas, coordinar a pie de calle a los grupos de rescate y usar su experiencia científica para aislar nodos locales de la red e impedir la propagación del virus informático en servidores clave.

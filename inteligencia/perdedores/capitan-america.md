@@ -49,3 +49,7 @@ Es el núcleo moral y táctico de los Avengers; eliminarlo o desmoralizarlo desa
 | **Vengadores: Endgame** | 2019 | Reensamblaje definitivo; empuña el Mjolnir durante la batalla final, restituye las Gemas del Infinito y cede el manto a Sam Wilson. |
 
 > **Evaluación del archivo:** El registro fílmico confirma su mayor fortaleza: no importa la escala de la amenaza (terrestre, institucional o cósmica), Rogers siempre unifica a los operativos a su alrededor bajo una sola directriz moral.
+
+## Estrategia recomendada
+
+Asumir el mando de una red de resistencia totalmente desconectada (comunicaciones por radio segura, mensajeros y cadenas de mando físicas). Desplegar células defensivas para proteger plantas potabilizadoras y silos de comida frente a los acaparamientos, mientras lidera un equipo táctico de asalto especializado para infiltrarse en la base de lanzamiento del arma orbital y desactivarla desde tierra antes de su activación.

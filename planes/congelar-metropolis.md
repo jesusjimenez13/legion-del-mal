@@ -10,3 +10,7 @@ El objetivo es congelar la ciudad de Metrópolis para detener el tiempo y presev
 4.  **MOnitoreo del proceso**: Supervisa el estado de la ciudad durante el proceso de congelación para asegurarte de que todo funcione correctamente y no haya fallos en el sistema. 
 5. **Mantenimiento del estado congelado**: Una vez que la ciudad esté congelada, realiza inspecciones periódicas para garantizar que el estado de congealción se mantenga y no haya daños en la infraestruccturas.
 6. **Descongelación controlada**: Cuando sea necesario descongelar la ciudad, sigue un protocolo seguro para restaurar el flujo normal de itmepo y actividad, asegurándote de que todos los sistemas vuelvan a funcionar correctamente. "Descongelación": Unknown word.
+
+## Plan de escape
+
+Aléjate de hospitales y comisarías, ya que serán las primeras zonas atacadas por los emisores de frío. Consigue ropa térmica resistente, linternas mecánicas y dirígete de inmediato a los límites de la ciudad a través de las vías de tren de carga o los colectores pluviales subterráneos, evitando carreteras colapsadas. Cruza el perímetro exterior hacia zonas altas antes de los primeros 15 minutos de activación para no quedar atrapado por la onda de congelación.
