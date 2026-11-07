@@ -79,3 +79,52 @@ A diferencia de intentos anteriores basados en confrontación directa mediante r
 ---
 
 **ADVERTENCIA:** Este archivo se encuentra vinculado a un monitor de signos vitales. Cualquier intento de extracción o copia externa sin autorización biométrica activará el borrado térmico de las unidades de estado sólido correspondientes.
+
+## Plan de escape:
+6.1. Vectores de Retirada Inmediata (Torre LexCorp - Ático)
+
+1. **Conducto Blindado de Descenso Rápido (Núcleo Sigma):**
+   * **Mecanismo:** Compuerta de acceso neumático camuflada tras el mural blindado del despacho principal.
+   * **Protección:** Revestimiento perimetral integral de aleación de plomo y titanio de 120 mm para cegar visión de rayos X, sensores térmicos y detección de campos electromagnéticos.
+   * **Trayectoria:** Caída libre controlada por levitación magnética inversa directa al nivel de cimentación sub-roca (-45 m bajo el nivel freático de Metrópolis).
+
+2. **Supresión Sensorial de Salida:**
+   * **Contramedida acústica:** Detonación de bengalas subsónicas de pulso de choque para anular la superaudición en un radio de 5 km alrededor del epicentro del edificio.
+   * **Contramedida visual:** Difusión de micropartículas pirofóricas que generan una firma térmica idéntica a la del cuerpo humano en 8 puntos cardinales de la torre.
+
+
+
+6.2. Señuelos y Guerra Asimétrica de Desvío
+
+* **Proyecto Doppelgänger (L-Decoy):**
+  * Despliegue de un autómata biorresonante de silicona dérmica con patrón cardíaco y firma química indistinguibles de L. Luthor.
+  * **Comportamiento:** Programado para activar una rendición fingida ante fuerzas de seguridad o la Liga de la Justicia en la azotea, reteniendo la atención táctica enemiga durante una ventana crítica de 4 a 6 minutos.
+* **Sobrecarga de Intervención:**
+  * La confirmación de retirada activa automáticamente la despresurización de la red de gas natural del Distrito Centenario, forzando un dilema moral que obligue a los activos hostiles a priorizar la contención civil antes de iniciar persecución.
+
+
+
+ 6.3. Transporte y Ruta de Escape Subterránea
+
+* **Lanzadera Maglev T-01 (Red de Túneles Olvidados de 1930):**
+  * Acceso a monorriel presurizado de alta velocidad no registrado en el catastro metropolitano.
+  * **Velocidad de crucero:** Mach 1.4 en vacío parcial.
+  * **Destino:** Muelle clandestino en la Bahía de Metrópolis (Hangar Submarino Gamma).
+* **Embarcación Sumergible Autónoma *Nautilus-Omega*:**
+  * Casco de propulsión magnetohidrodinámica silenciosa (cero firma acústica de cavitación).
+  * Inmersión inmediata a fosa abisal hacia las coordenadas clasificadas de la instalación **Tartarus** en aguas internacionales, fuera del alcance jurisdiccional y satelital estándar.
+
+
+
+6.4. Purga Integral y Cortafuegos Legal
+
+| Vector de Riesgo | Acción Automática | Tiempo de Ejecución |
+| :--- | :--- | :--- |
+| **Registros Locales** | Termólisis de discos duros y núcleos cuánticos de la torre mediante termita líquida. | $t = +30\text{ s}$ |
+| **Cadena de Mando** | Traspaso irrevocable de la dirección de LexCorp a un fideicomiso legal ciego en Suiza. | Inmediato |
+| **Narrativa Pública** | Difusión de metraje pregrabado atribuyendo la destrucción a un "atentado terrorista kryptoniano". | $t = +2\text{ min}$ |
+
+
+
+> *"Un estratega que no contempla su propia retirada no es un genio: es solo un mártir con delirios de grandeza. Yo no muero por causas; las causas se pliegan a mí."*  
+> — **L. Luthor**
