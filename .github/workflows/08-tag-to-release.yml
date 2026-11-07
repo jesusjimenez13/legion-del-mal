@@ -1,0 +1,35 @@
+name: Crear Release Automática
+
+on:
+  push:
+    tags:
+      - 'v*' 
+
+  workflow_dispatch: 
+    inputs:
+        tag:
+            description: 'Tag a publicar (ej. v1.0.0)'
+            required: true 
+
+permissions:
+  contents: write    
+
+jobs:
+  crear-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el código
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Descarga todo el historial para que Git pueda calcular diferencias
+
+      - name: Crear Release en GitHub
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.ref_name }}
+          name: Versión ${{ github.ref_name }}
+          generate_release_notes: true # Genera automáticamente el changelog y lista de PRs/commits
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
